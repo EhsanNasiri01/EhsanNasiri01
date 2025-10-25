@@ -30,8 +30,8 @@ As a Front End Developer with 2-3 years of experience in creating webApplication
  
 
 
-## 🌐 Socials:
-<!--[![Telegram](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/solaiman-naderi) 
+## 🌐 MY Socials:
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KhodEhsanm) 
 
 <!-- # 💻 Tech Stack: -->
 
