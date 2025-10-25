@@ -1,4 +1,4 @@
-<h1 align="center" style="color:blue;">Welcome to my GitHub ✨</h1>
+<h1 align="center">Welcome to my GitHub ✨</h1>
 
 <p align="center">
   <b>Tech stack:</b> Python, React, Node.js, Next.js
