@@ -1,6 +1,9 @@
 ## Hey there
-![](https://komarev.com/ghpvc/?username=moeidheidari)
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=social" alt="Stars" />
+</p>
 As a Front End Developer with 2-3 years of experience in creating webApplications and analyzing projects with react.
 
 
