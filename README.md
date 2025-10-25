@@ -21,6 +21,7 @@ As a Front End Developer with 2-3 years of experience in creating webApplication
 <!-- ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  -->
 <!-- ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  -->
 ### Other Skills:
+[![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
 
