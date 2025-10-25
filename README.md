@@ -12,6 +12,8 @@ As a Front End Developer with 2-3 years of experience in creating webApplication
 [![My Skills](https://skillicons.dev/icons?i=js,react)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
 
 <!-- ### Back-End Skills:
 
