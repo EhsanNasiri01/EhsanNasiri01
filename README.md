@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Welcome to my GitHub ✨</h1>
 
-<!--
-**EhsanNasiri01/EhsanNasiri01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Tech stack:</b> Python, React, Node.js, Next.js
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=social" alt="Stars" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,react,html,css,js,nodejs,nextjs,php,linux,git" />
+</p>
