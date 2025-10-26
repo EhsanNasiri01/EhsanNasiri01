@@ -9,10 +9,10 @@ As a Front End Developer with 2-3 years of experience in creating webApplication
 
 
 ### Front-End Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,react)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=materialui)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react)](https://github.com/ehsannasiri01)
+[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://github.com/ehsannasiri01)
+[![My Skills](https://skillicons.dev/icons?i=materialui)](https://github.com/ehsannasiri01)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://github.com/ehsannasiri01)
 
 <!-- ### Back-End Skills:
 
@@ -21,14 +21,14 @@ As a Front End Developer with 2-3 years of experience in creating webApplication
 <!-- ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  -->
 <!-- ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  -->
 ### Other Skills:
-[![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux)](https://github.com/ehsannasiri01)
+[![My Skills](https://skillicons.dev/icons?i=git)](https://github.com/ehsannasiri01)
+[![My Skills](https://skillicons.dev/icons?i=npm)](https://github.com/ehsannasiri01)
 
  
 
 ### Databases:
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://github.com/ehsannasiri01)
 
  
 
@@ -55,10 +55,10 @@ As a Front End Developer with 2-3 years of experience in creating webApplication
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
  -->
 # 📊 GitHub Stats:
-[![Ehsan Nasiri GitHub](https://github-readme-streak-stats.herokuapp.com?user=EhsanNasiri01&theme=tokyonight-duo)](https://git.io/streak-stats)
+[![Ehsan Nasiri GitHub](https://github-readme-streak-stats.herokuapp.com?user=EhsanNasiri01&theme=tokyonight-duo)](https://github.com/ehsannasiri01)
 
 
-[![Ehsan Nasiri GitHub](https://github-readme-stats.vercel.app/api?username=EhsanNasiri01&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Ehsan Nasiri GitHub](https://github-readme-stats.vercel.app/api?username=EhsanNasiri01&theme=tokyonight)](https://github.com/ehsannasiri01)
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EhsanNasiri01&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
