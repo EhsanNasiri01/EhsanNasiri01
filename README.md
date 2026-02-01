@@ -13,7 +13,8 @@ As a Front End Developer with 2-3 years of experience in creating webApplication
 [![My Skills](https://skillicons.dev/icons?i=tailwind)](https://github.com/ehsannasiri01)
 [![My Skills](https://skillicons.dev/icons?i=materialui)](https://github.com/ehsannasiri01)
 [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://github.com/ehsannasiri01)
-
+[![My Skills](https://skillicons.dev/icons?i=vuejs)](https://github.com/ehsannasiri01)
+[![My Skills](https://skillicons.dev/icons?i=nuxtjs)](https://github.com/ehsannasiri01)
 <!-- ### Back-End Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,prisma,docker)](https://skillicons.dev)
