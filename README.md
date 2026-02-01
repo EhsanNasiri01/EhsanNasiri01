@@ -42,7 +42,7 @@ As a Front End Developer with 2-3 years of experience in creating webApplication
 
 ## 🌐 MY Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ehsan_n0311) 
-
+Phone:09304762550
 <!-- # 💻 Tech Stack: -->
 
 
