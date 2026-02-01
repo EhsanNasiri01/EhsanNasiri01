@@ -10,6 +10,8 @@ As a Front End Developer with 2-3 years of experience in creating webApplication
 
 ### Front-End Skills:
 [![My Skills](https://skillicons.dev/icons?i=js,react)](https://github.com/ehsannasiri01)
+[![My Skills](https://skillicons.dev/icons?i=typescript)](https://github.com/ehsannasiri01)
+[![My Skills](https://skillicons.dev/icons?i=nextjs)](https://github.com/ehsannasiri01)
 [![My Skills](https://skillicons.dev/icons?i=tailwind)](https://github.com/ehsannasiri01)
 [![My Skills](https://skillicons.dev/icons?i=materialui)](https://github.com/ehsannasiri01)
 [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://github.com/ehsannasiri01)
@@ -25,8 +27,10 @@ As a Front End Developer with 2-3 years of experience in creating webApplication
 [![My Skills](https://skillicons.dev/icons?i=linux)](https://github.com/ehsannasiri01)
 [![My Skills](https://skillicons.dev/icons?i=git)](https://github.com/ehsannasiri01)
 [![My Skills](https://skillicons.dev/icons?i=npm)](https://github.com/ehsannasiri01)
-
- 
+[![My Skills](https://skillicons.dev/icons?i=primevue)](https://github.com/ehsannasiri01)
+[![My Skills](https://skillicons.dev/icons?i=vuetify)](https://github.com/ehsannasiri01)
+[![My Skills](https://skillicons.dev/icons?i=vuex)](https://github.com/ehsannasiri01)
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://github.com/ehsannasiri01)
 
 ### Databases:
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://github.com/ehsannasiri01)
