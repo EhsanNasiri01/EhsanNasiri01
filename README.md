@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/github/followers/EhsanNasiri01?style=social" alt="Followers" />
   <img src="https://img.shields.io/github/stars/EhsanNasiri01?style=social" alt="Stars" />
 </p>
-As a Front End Developer with 2-3 years of experience in creating webApplications and analyzing projects with react.
+As a Front End Developer with 2-3 years of experience in creating webApplications and analyzing projects with react/vue.
 
 
 
